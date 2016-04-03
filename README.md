@@ -1,2 +1,2 @@
 # hello-world
-Place for notes, I guess.  Private.  Created for Github tutorial.
+Place for notes, I guess.  Public.  Created for Github tutorial.
